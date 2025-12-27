@@ -24,7 +24,6 @@ These insights can help align marketing campaigns with real user behavior.
 - **Excel/CSV** – Data storage & exports
 
 ## Repository Structure
-
 ├── Bellabeat Business Problem.pdf
 ├── clean_activity_sleep.csv
 ├── activity_sleep_bellabeat.sql
