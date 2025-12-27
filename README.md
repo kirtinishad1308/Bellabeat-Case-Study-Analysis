@@ -24,14 +24,15 @@ These insights can help align marketing campaigns with real user behavior.
 - **Excel/CSV** – Data storage & exports
 
 ## Repository Structure
-├── Bellabeat Business Problem.pdf
-├── clean_activity_sleep.csv
-├── activity_sleep_bellabeat.sql
-├── bellabeat_data_cleaning.ipynb
-├── bellabeat_eda.ipynb
-├── bellabeat_final_tableau.csv
-├── Bellabeat User Activity.twbx
-└── README.md
+Bellabeat-Case-Study/
+│── Bellabeat Business Problem.pdf
+│── clean_activity_sleep.csv
+│── activity_sleep_bellabeat.sql
+│── bellabeat_data_cleaning.ipynb
+│── bellabeat_eda.ipynb
+│── bellabeat_final_tableau.csv
+│── Bellabeat User Activity.twbx
+│── README.md
 
 ## Key Insights
 - Most users fall under Medium and High activity levels, fewer users are Low activity.
